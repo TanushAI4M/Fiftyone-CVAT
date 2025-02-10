@@ -13,7 +13,7 @@ This repository contains scripts for managing FiftyOne datasets, including detec
    ```
 4. Navigate to the `fiftyone` folder on the workstation:
    ```bash
-   cd /home/ai4m/fiftyone/Scripts/
+   cd /home/ai4m/fiftyone/
    ```
 5. Run the required bash script:
    ```bash

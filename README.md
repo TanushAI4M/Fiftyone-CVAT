@@ -15,9 +15,9 @@ This repository contains scripts for managing FiftyOne datasets, including detec
    ```bash
    cd /home/ai4m/fiftyone/Scripts/
    ```
-5. Run the required scripts:
+5. Run the required bash script:
    ```bash
-   python3 <script_name>.py <--arguments>
+   ./fiftyone.sh
    ```
 
 ## Running Scripts and Arguments

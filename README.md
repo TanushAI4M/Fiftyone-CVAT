@@ -17,7 +17,7 @@ This repository contains scripts for managing FiftyOne datasets, including detec
    ```
 5. Run the required bash script:
    ```bash
-   ./fiftyone.sh
+   ./preprocessing.sh
    ```
 
 ## Running Scripts and Arguments
